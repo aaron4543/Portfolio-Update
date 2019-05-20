@@ -1,0 +1,59 @@
+#name {
+    margin-right: 10%;
+    margin-top: 12%;
+}
+
+#title {
+    margin-right:10%;
+}
+
+#bio-img {
+    border: 3px solid #481702;
+}
+
+.carousel {
+    width: 50%;
+}
+.emptyDiv {
+    width: 50%;
+}
+
+.col-lg-4 {
+    float:left;
+    width: 40%;
+}
+
+.col-lg-8 {
+    float: right;
+    width: 60%;
+}
+
+.personal-info {
+    line-height: 1;
+    font-weight: 500;
+}
+
+.portfolio-section {
+    display: inline-block;
+}
+
+.portfolio-info h5 {
+    text-decoration: underline;
+}
+
+.portfolio-links {
+    width: 20%;
+}
+.portfolio-info {
+    width:30%;
+    border: 2px solid #656565;
+    margin:0px 10px 0px 10px;
+}
+
+.link-btn {
+    margin:7px;
+}
+
+.contact-info {
+    width: 80%;
+}
